@@ -1,1 +1,3 @@
 This is a blurb I'm supposed to write to prove that this is committed to the staging area.
+
+This is an additional edit to test the Commit Message Editor.
